@@ -47,8 +47,6 @@ To attract attackers, I configured the NSG to expose the VM:
     
     - Name: danger (to indicate the rule is intentionally dangerous)
 
-![image](https://github.com/user-attachments/assets/11e21cbe-638f-4926-afe6-ed50896828ef)
-
 # 💻 Accessing the Virtual Machine and turning off Firewall
 
 I connected to the VM using Remote Desktop Protocol (RDP) and verified its exposure by:
