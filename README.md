@@ -141,6 +141,9 @@ As attack sources changed, the attack map evolved, displaying new data.
 
 ![2map](https://github.com/user-attachments/assets/d1aa2d0e-7a02-43cf-bddb-56181350dedd)
 
+# ⏳ Map after 25h
+
+![attack-map3](https://github.com/user-attachments/assets/fef9a4c9-288a-4596-a71f-5a794d0b071f)
 
 # 📝 Final Recap
 
